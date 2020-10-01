@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("第二个贡献者");
 
         System.out.println("第二分支");
+        System.out.println("第二分支延伸");
     }
 }
