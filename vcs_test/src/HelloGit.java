@@ -8,5 +8,7 @@ public class HelloGit {
 
         System.out.println("shadow");
         System.out.println("第二个贡献者");
+
+        System.out.println("master冲突制造");
     }
 }
