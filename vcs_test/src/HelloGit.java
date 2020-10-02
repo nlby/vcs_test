@@ -19,5 +19,7 @@ public class HelloGit {
         System.out.println("新建分支nlby");
 
         System.out.println("nlby开发一");
+
+        System.out.println("nlby开发二");
     }
 }
