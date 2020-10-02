@@ -12,5 +12,7 @@ public class HelloGit {
         System.out.println("master延伸");
 
         System.out.println("master冲突制造");
+
+        System.out.println("master分支进一步开发 shadow");
     }
 }
