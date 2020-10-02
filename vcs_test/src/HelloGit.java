@@ -17,5 +17,7 @@ public class HelloGit {
         System.out.println("master冲突制造");
 
         System.out.println("新建分支nlby");
+
+        System.out.println("nlby开发一");
     }
 }
